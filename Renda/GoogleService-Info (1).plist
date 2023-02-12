@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>479881788118-bf164t7damp98hotjtqju4o8ubk7bvki.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.479881788118-bf164t7damp98hotjtqju4o8ubk7bvki</string>
+	<key>API_KEY</key>
+	<string>AIzaSyABhR1Gq3E1FzBXGTikivquL9boiiknTmc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>479881788118</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.Machida.Zinenzyo.Renda</string>
+	<key>PROJECT_ID</key>
+	<string>renda2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>renda2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:479881788118:ios:0b86c4e7a111f962216777</string>
+</dict>
+</plist>
